@@ -43,3 +43,8 @@ const { shorten } = require("cb0tcc");
 
 shorten(`https://google.com`);
 ```
+
+
+## License
+© chasyumen 2021. Released under the MIT license
+
