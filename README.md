@@ -21,7 +21,9 @@ Function
 The url to create shortened url.
 
 ```js
-shorten(`https://google.com`)
+shorten(`https://google.com`).then(res => {
+  console.log(`Url created: ${res.url}`)
+}).catch(console.error)
 ```
 
 #### returns
@@ -47,5 +49,4 @@ shorten(`https://google.com`);
 
 ## License
 © chasyumen 2021. Released under the MIT license
-
 
