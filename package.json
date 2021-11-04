@@ -1,0 +1,31 @@
+{
+  "name": "cb0tcc",
+  "version": "0.0.0",
+  "description": "An official api module of URL shortener cb0t.cc.",
+  "keywords": [
+    "api",
+    "cb0tcc",
+    "shortener",
+    "url-shortener"
+  ],
+  "homepage": "https://cb0t.cc/p/docs/node",
+  "bugs": {
+    "url": "https://github.com/chasyumen/cb0tcc.js/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chasyumen/cb0tcc.js.git"
+  },
+  "author": "chasyumen",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=12.11.0"
+  },
+  "engineStrict": true
+}
