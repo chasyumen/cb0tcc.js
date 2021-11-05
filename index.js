@@ -7,7 +7,7 @@ function shorten(url) {
         try {
             https.get('https://cb0t.cc/api/create?source=nodeapi&url=' + encodeURIComponent(url), function (res) {
                 if (res.statusCode == 502) {
-                    reject(new Error("cb0t.cc is offline."));
+                    reject(new Error("cb0t.cc might be offline."));
                     return;
                 }
                 var body = '';

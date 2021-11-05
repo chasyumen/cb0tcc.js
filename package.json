@@ -1,6 +1,6 @@
 {
   "name": "cb0tcc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An official api module of URL shortener cb0t.cc.",
   "keywords": [
     "api",
