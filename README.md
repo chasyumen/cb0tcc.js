@@ -1,6 +1,6 @@
 # cb0tcc.js
 
-[![TotalDownloads](https://img.shields.io/npm/dt/cb0tcc)](https://npmjs.com/package/cb0tcc) [![GitHub commit activity m](https://img.shields.io/github/commit-activity/m/chasyumen/cb0tcc.js)](https://github.com/chasyumen/cb0tcc.js) [![Node.js CI](https://github.com/chasyumen/cb0tcc.js/actions/workflows/node.js.yml/badge.svg)](https://github.com/chasyumen/cb0tcc.js/actions/workflows/node.js.yml) [![License](http://img.shields.io/npm/l/cb0tcc)](https://github.com/chasyumen/cb0tcc.js/blob/main/LICENSE)
+[![TotalDownloads](https://img.shields.io/npm/dt/cb0tcc)](https://npmjs.com/package/cb0tcc) [![GitHub commit activity m](https://img.shields.io/github/commit-activity/m/chasyumen/cb0tcc.js)](https://github.com/chasyumen/cb0tcc.js) [![Node.js CI](https://github.com/chasyumen/cb0tcc.js/actions/workflows/node.js.yml/badge.svg)](https://github.com/chasyumen/cb0tcc.js/actions/workflows/node.js.yml) [![License](https://img.shields.io/npm/l/cb0tcc)](https://github.com/chasyumen/cb0tcc.js/blob/main/LICENSE)
 
 An official [cb0t.cc](https://cb0t.cc/) api package.
 
